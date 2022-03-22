@@ -1,0 +1,39 @@
+.container{
+    text-align: center;
+    margin: top 40px;
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 21px;
+    border: 5px solid #0a0a0a;
+    font: size 24px;
+    height: 65px;
+    width: 400px;
+}
+
+button{
+    border-radius: 20px;
+    font-size: 40px;
+    background: #eee1ea;
+    width: 102px;
+    height: 80px;
+    margin: 6px;
+}
+
+.calculator{ 
+    border: 4px solid #121313;
+    background-color: #0e0f0fee;
+    padding: 15px;
+    border-radius: 40px;
+    display: inline-table;
+    
+}
+
+h1{
+    font-size: 28px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+}
